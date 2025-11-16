@@ -3,10 +3,4 @@ Hey!
 This is my first ever Game project I made.
 Basically, this is a clone of "Flappy Bird", but since my usual Username everywhere online is "Flame", I decided to make it a Flame, that tries jumping through (two) water geysers.
 
-Btw, the sprites are also made by no other than me :D 
-
-
-Update v1.1 Patch notes:
-
-- Added background image
-- Added sound effect -> Source: https://pixabay.com/sound-effects/game-start-317318/
+I also designed the sprites myself with Photoshop.
